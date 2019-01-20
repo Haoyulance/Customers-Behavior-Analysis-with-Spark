@@ -9,6 +9,8 @@ Sql
 ### libraries
 PySpark, 
 Scikit-learn
+### computation
+AWS
 # Data Set Summary
 The original data files which are downloaded from the website is constructed by three types files: play data, download data, search data which are specified by the date from 2017-03-31 - 2017-05-12. 
 # Preprocessing and Feature Extraction
