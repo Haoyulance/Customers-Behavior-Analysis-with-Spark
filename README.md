@@ -1,4 +1,4 @@
-# music_box_project
+# Customer behavior analysis with Spark
 The project of music app platform's churn prediction and music recommendation using spark 
 # Introduction
 This project used the large and unstructureed dataset of user's behavior history from music platform, then made the classifier of user's churn possibility using current popular machine learning algorithms and used matrix factorization method with PySpark ALS to recommend the most relevant songs according to user's behavior. 
